@@ -13,7 +13,7 @@
     Det finns arbete med <a href="https://github.com/rebezhir/openquack">OpenQUACK-projektet</a> och allt som är kopplat till det.</br>
     <a href="https://github.com/rebezhir/openquack">OpenQUACK</a> projesi ve onunla bağlantılı olan her şey üzerinde çalışma var.</br>
 </td>
-  <td><img src="https://github.com/rebezhir/rebezhir/blob/e9b5c1b0ec03a79d7796b59e4fc5696deef6bd7f/quansheng.png"></td>
+  <td><img src="https://raw.githubusercontent.com/rebezhir/rebezhir/7d21b0c392b0d8cfe14310991500a02321377587/quansheng.png"></td>
   </tr>
 
 
