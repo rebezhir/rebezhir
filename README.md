@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=rebezhir&theme=gruvbox&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 <table border="0">
   <tr>
     <td><a href="https://github.com/rebezhir/openquack"><img src="https://github.com/rebezhir/openquack/raw/main/images/openquack.png" width="200px"></a></td>
